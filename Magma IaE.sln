@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magma IaE", "Magma IaE\Magma IaE.csproj", "{52078E1A-C742-4A78-9DD7-2BD1E736655D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52078E1A-C742-4A78-9DD7-2BD1E736655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52078E1A-C742-4A78-9DD7-2BD1E736655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52078E1A-C742-4A78-9DD7-2BD1E736655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52078E1A-C742-4A78-9DD7-2BD1E736655D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A680068-6937-4ACA-9910-675E0AAC5844}
+	EndGlobalSection
+EndGlobal

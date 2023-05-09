@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KaizerFox/vr/master/vrscript.lua'))()

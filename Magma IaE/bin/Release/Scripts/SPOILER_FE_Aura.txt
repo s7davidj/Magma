@@ -1,0 +1,47 @@
+print("Made by Ayano#0002")
+_G.on = true
+local parts = {}
+local bparts = {}
+local chr = game.Players.LocalPlayer.Character
+local bp = game.Players.LocalPlayer.Backpack
+local pb = true
+for i,d in pairs(game.Players.LocalPlayer.Character.Humanoid:GetAccessories()) do
+local part = nil
+pcall(function()
+part = d.Handle
+end)
+if part ~= nil then
+       local c = Instance.new("Tool")
+       c.Name = "s-"..d.Name
+c.Parent = game.Players.LocalPlayer.Backpack
+c.Parent = game.Players.LocalPlayer.Character
+       part.Massless = true
+part:FindFirstChildOfClass("Weld"):Destroy()
+part.Parent = c
+
+for l,k in pairs(part:GetChildren()) do
+k:Destroy()
+end
+pb = not pb
+table.insert((pb and parts or bparts), c)
+end
+
+end
+local rs = game:GetService('RunService').RenderStepped
+local l = 1
+
+while _G.on and rs:wait() do
+l = (l >= 360 and 1 or l+1)
+   for i,d in pairs(parts) do
+local cfd = ((game.Players.LocalPlayer.Character:FindFirstChild("Right Arm") or game.Players.LocalPlayer.Character:FindFirstChild("RightLowerArm")).CFrame * CFrame.new(0, -1, 0, 1, 0, 0, 0, 0, 1, 0, -1, 0))
+d.Parent = game.Players.LocalPlayer.Backpack
+       d.Grip = cfd:toObjectSpace(CFrame.new(game.Players.LocalPlayer.Character.Head.Position) * CFrame.fromEulerAnglesXYZ(math.rad(l + ((360 / #parts) * i)), math.rad(l + ((360 / #parts) * i)) ,math.rad(l + ((360 / #parts) * i))) * CFrame.new(0,0,5)):inverse()
+d.Parent = game.Players.LocalPlayer.Character
+end
+for i,d in pairs(bparts) do
+local cfd = ((game.Players.LocalPlayer.Character:FindFirstChild("Right Arm") or game.Players.LocalPlayer.Character:FindFirstChild("RightLowerArm")).CFrame * CFrame.new(0, -1, 0, 1, 0, 0, 0, 0, 1, 0, -1, 0))
+d.Parent = game.Players.LocalPlayer.Backpack
+d.Grip = cfd:toObjectSpace(CFrame.new(game.Players.LocalPlayer.Character.Head.Position) * CFrame.fromEulerAnglesXYZ(math.rad(l + ((360 / #bparts) * i)), math.rad(l + ((360 / #bparts) * i)) ,math.rad(l + ((360 / #bparts) * i))) * CFrame.new(0,0,-5)):inverse()
+d.Parent = game.Players.LocalPlayer.Character
+end
+end

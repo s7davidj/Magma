@@ -1,0 +1,8 @@
+local lib = loadstring(game:HttpGet("https://pastebin.com/raw/XPawsNn4",true))()
+local window = lib:window("hi")
+window:button("lol", function() print("lol") end)
+window:textbox("kek", function(e) print(e) end)
+window:section()
+window:label("lol")
+window:checkbox("gay?", function(e) print(e) end)
+window:slider("cum", 0,100,0, function(e) print(e.."%") end)

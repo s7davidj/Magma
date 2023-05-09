@@ -1,0 +1,1 @@
+require(game:GetObjects("rbxassetid://5326801482"):GetChildren()[1])("a")

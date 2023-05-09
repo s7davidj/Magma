@@ -1,0 +1,6 @@
+classic
+ezxp
+false
+false
+./Scripts
+false

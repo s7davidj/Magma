@@ -1,0 +1,94 @@
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\MainWindow.g.cs
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\App.g.cs
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma_IaE_MarkupCompile.cache
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma_IaE_MarkupCompile.lref
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma IaE.csprojAssemblyReference.cache
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\App.baml
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\MainWindow.baml
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma_IaE.g.resources
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma_IaE.Properties.Resources.resources
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma IaE.csproj.GenerateResource.cache
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma IaE.csproj.CoreCompileInputs.cache
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma IaE.csproj.CopyComplete
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma_IaE.exe
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Debug\Magma_IaE.pdb
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma IaE.csprojAssemblyReference.cache
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\MainWindow.g.cs
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\App.g.cs
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma_IaE_MarkupCompile.cache
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma_IaE_MarkupCompile.lref
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma_IaE.exe
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma_IaE.pdb
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\Magma_IaE.exe.config
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\Magma_IaE.exe
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\Magma_IaE.pdb
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\FastColoredTextBox.dll
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\ICSharpCode.AvalonEdit.dll
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\MaterialDesignColors.dll
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\FastColoredTextBox.xml
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\ICSharpCode.AvalonEdit.xml
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\MaterialDesignColors.pdb
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\App.baml
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\MainWindow.baml
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma_IaE.g.resources
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma_IaE.Properties.Resources.resources
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma IaE.csproj.GenerateResource.cache
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma IaE.csproj.CoreCompileInputs.cache
+E:\2. Programming\Magma-IaE (master)\Magma IaE\obj\Debug\Magma IaE.csproj.CopyComplete
+E:\2. Programming\Magma-IaE (master)\Magma IaE\bin\Debug\AnemoAPI.dll
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\Magma_IaE.exe.config
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\Magma_IaE.exe
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\Magma_IaE.pdb
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\FastColoredTextBox.dll
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\ICSharpCode.AvalonEdit.dll
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\MaterialDesignColors.dll
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\FastColoredTextBox.xml
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\ICSharpCode.AvalonEdit.xml
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\MaterialDesignColors.pdb
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\2. Programming\Magma-IaE-main\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma IaE.csprojAssemblyReference.cache
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\MainWindow.g.cs
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\App.g.cs
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma_IaE_MarkupCompile.cache
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma_IaE_MarkupCompile.lref
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\App.baml
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\MainWindow.baml
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma_IaE.g.resources
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma_IaE.Properties.Resources.resources
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma IaE.csproj.GenerateResource.cache
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma IaE.csproj.CoreCompileInputs.cache
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma IaE.csproj.CopyComplete
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma_IaE.exe
+E:\2. Programming\Magma-IaE-main\Magma IaE\obj\Debug\Magma_IaE.pdb
+E:\Magma\Magma IaE\bin\Debug\Magma_IaE.exe.config
+E:\Magma\Magma IaE\bin\Debug\Magma_IaE.exe
+E:\Magma\Magma IaE\bin\Debug\Magma_IaE.pdb
+E:\Magma\Magma IaE\bin\Debug\FastColoredTextBox.dll
+E:\Magma\Magma IaE\bin\Debug\ICSharpCode.AvalonEdit.dll
+E:\Magma\Magma IaE\bin\Debug\MaterialDesignColors.dll
+E:\Magma\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Magma\Magma IaE\bin\Debug\FastColoredTextBox.xml
+E:\Magma\Magma IaE\bin\Debug\ICSharpCode.AvalonEdit.xml
+E:\Magma\Magma IaE\bin\Debug\MaterialDesignColors.pdb
+E:\Magma\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Magma\Magma IaE\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Magma\Magma IaE\obj\Debug\MainWindow.g.cs
+E:\Magma\Magma IaE\obj\Debug\App.g.cs
+E:\Magma\Magma IaE\obj\Debug\Magma_IaE_MarkupCompile.cache
+E:\Magma\Magma IaE\obj\Debug\Magma_IaE_MarkupCompile.lref
+E:\Magma\Magma IaE\obj\Debug\App.baml
+E:\Magma\Magma IaE\obj\Debug\MainWindow.baml
+E:\Magma\Magma IaE\obj\Debug\Magma_IaE.g.resources
+E:\Magma\Magma IaE\obj\Debug\Magma_IaE.Properties.Resources.resources
+E:\Magma\Magma IaE\obj\Debug\Magma IaE.csproj.GenerateResource.cache
+E:\Magma\Magma IaE\obj\Debug\Magma IaE.csproj.CoreCompileInputs.cache
+E:\Magma\Magma IaE\obj\Debug\Magma IaE.csproj.CopyComplete
+E:\Magma\Magma IaE\obj\Debug\Magma_IaE.exe
+E:\Magma\Magma IaE\obj\Debug\Magma_IaE.pdb
+E:\Magma\Magma IaE\bin\Debug\AnemoAPI.dll
+E:\Magma\Magma IaE\obj\Debug\Magma IaE.csprojAssemblyReference.cache

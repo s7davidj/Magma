@@ -1,0 +1,30 @@
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\Magma_IaE.exe.config
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\Magma_IaE.exe
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\Magma_IaE.pdb
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\CheatSquadAPI.dll
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\ClubDarkAPI.dll
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\EasyExploits.dll
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\FastColoredTextBox.dll
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\ICSharpCode.AvalonEdit.dll
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\MaterialDesignColors.dll
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\WeAreDevs_API.dll
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\FastColoredTextBox.xml
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\ICSharpCode.AvalonEdit.xml
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\MaterialDesignColors.pdb
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma IaE.csprojAssemblyReference.cache
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\MainWindow.g.cs
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\App.g.cs
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma_IaE_MarkupCompile.cache
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma_IaE_MarkupCompile.lref
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\App.baml
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\MainWindow.baml
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma_IaE.g.resources
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma_IaE.Properties.Resources.resources
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma IaE.csproj.GenerateResource.cache
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma IaE.csproj.CoreCompileInputs.cache
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma IaE.csproj.CopyComplete
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma_IaE.exe
+E:\2. Programming\Roblox\ScriptHub v3.4.1b - AltTheme\ScriptHub v3.4.1b\obj\Release\Magma_IaE.pdb

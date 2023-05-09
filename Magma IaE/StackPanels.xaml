@@ -1,0 +1,3 @@
+<StackPanel HorizontalAlignment="Left" Height="400" Margin="105 0 0 0" VerticalAlignment="Top" Width="570" Background="#FF121212">           
+    <Image HorizontalAlignment="Left" Height="30" Width="98" VerticalAlignment="Top" Margin="472 367.5 0 0" Source="MainLogo.png"/>
+</StackPanel>

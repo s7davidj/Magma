@@ -1,0 +1,65 @@
+local myStats = {
+	ReloadTime = 0,
+	FireRate = 0,
+	AutoFire = true,
+	StoredAmmo = math.huge,
+	MaxAmmo = math.huge,
+	CurrentAmmo = math.huge,
+	Bullets = 10,
+	Range = 2147483647,
+}
+
+
+
+local reg = (getreg or debug.getregistry)
+local get = (debug.getupvalues or secret953)
+local client = game:GetService("Players").LocalPlayer
+local render = game:GetService('RunService').RenderStepped
+
+function start() 
+local function fakeStats()
+function change(t)
+
+for name, fake in next, myStats do
+t[name] = fake
+end
+end
+
+for k, v in next, reg() do
+if type(v) == "function" then
+local upvals = get(v)
+if upvals and upvals.GunStates then
+change(upvals.GunStates)
+end
+end
+end
+end
+
+client.Backpack.ChildAdded:connect(function(child)
+if child:IsA("Tool") and child:FindFirstChild("GunInterface") then
+client.Character.Humanoid:EquipTool(child)
+
+render:wait()
+fakeStats()
+render:wait()
+
+client.Character.Humanoid:UnequipTools()
+end
+end)
+
+for _, child in next, client.Backpack:GetChildren() do
+if child:IsA("Tool") and child:FindFirstChild("GunInterface") then
+client.Character.Humanoid:EquipTool(child)
+
+render:wait()
+fakeStats()
+render:wait()
+
+client.Character.Humanoid:UnequipTools()
+end
+end
+end
+
+start()
+
+client.CharacterAdded:connect(start)

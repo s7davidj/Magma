@@ -1,0 +1,6 @@
+classic
+anmo
+false
+true
+./Scripts
+false

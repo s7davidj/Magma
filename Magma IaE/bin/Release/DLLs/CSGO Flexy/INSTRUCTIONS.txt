@@ -1,0 +1,24 @@
+Version: V1.4
+
+  ______ _                 
+ |  ____| |                
+ | |__  | | _____  ___   _ 
+ |  __| | |/ _ \ \/ / | | |
+ | |    | |  __/>  <| |_| |
+ |_|    |_|\___/_/\_\\__, |
+                      __/ |
+                     |___/ 
+Credits
+[ https://www.youtube.com/channel/UC96NYOG1SGlYPqVIM11LaAQ ]
+[ https://www.youtube.com/cyxap ]
+[ https://www.youtube.com/channel/UCp3_qCMxeGQ9tqBP2kobWow ]
+
+Steps
+1.extract the winrar file 
+2.put the flexy folder in %appdata% or in (PLACE FLEXY FOLDER HERE)
+3.open GTA V 
+4.open any injector 
+5.place flexy.dll in the injector 
+6.choose GTA5.exe as your process 
+7.when in story mode click inject
+OPEN KEY IS [ F8 ]
